@@ -3,10 +3,6 @@
   code: https://github.com/PuReDefence/pure
   description: We propose a novel module that leverages a simpler variant of Principal Component Analysis (PCA) to inherently acquire robustness against adversarial attacks.
   used:
-    - thing: Adversarial
-    - thing: Defence
-    - thing: PCA
-  authors:
     - thing: Yang Wang
     - thing: Chenghao Xiao
     - thing: Yizhi Li
@@ -19,11 +15,6 @@
   code: https://openreview.net/pdf?id=nm8lp070Zk
   description: An important paradigm of speech and sound processing consists of efficient fine-tuning on adaptation to downstream tasks or domains. The primary challenge with fully fine-tuning a large-scale pre-trained model is overfitting, and the model may converge significantly slow. Herein, we propose Contrastive-based Fine-tuning (ConFit) for audio classification, which works by capturing robust representations and improve the discriminative power of the off-the-shelf models.
   used:
-    - thing: ConFit
-    - thing: Audio
-    - thing: Isotropy
-    - thing: Robustness
-  authors:
     - thing: Yang Wang
     - thing: Qibin Liang
     - thing: Chenghao Xiao
@@ -36,12 +27,6 @@
   code: https://openreview.net/pdf?id=rCb9KI1Y0w
   description: This paper explores the use of Large Language Models (LLMs) in the generation and evaluation of analytical reports derived from Earnings Calls (ECs). Addressing a current gap in research, we explore the generation of analytical reports with LLMs in a multi-agent framework, designing specialized agents that introduce diverse viewpoints and desirable topics of analysis into the report generation process. Through multiple analyses, we examine the alignment between generated and human-written reports and the impact of both individual and collective agents.
   used:
-    - thing: LLM
-    - thing: Multi-agent
-    - thing: AutoGen
-    - thing: PRAAT
-    - thing: Summarisation
-  authors:
     - thing: Tomas Goldsack
     - thing: Yang Wang
     - thing: Chenghua Lin
@@ -52,13 +37,6 @@
   code: https://openreview.net/pdf?id=EmW7Fs5BOd
   description: This paper explores the use of Large Language Models (LLMs) in the generation and evaluation of analytical reports derived from Earnings Calls (ECs). Addressing a current gap in research, we explore the generation of analytical reports with LLMs in a multi-agent framework, designing specialized agents that introduce diverse viewpoints and desirable topics of analysis into the report generation process. Through multiple analyses, we examine the alignment between generated and human-written reports and the impact of both individual and collective agents.
   used:
-    - thing: BERT
-    - thing: Eigen-decomposition
-    - thing: SVD
-    - thing: Pooling
-    - thing: Adversarial
-    - thing: Defence
-  authors:
     - thing: Yang Wang
     - thing: Yizhi Li
     - thing: Jie Fu

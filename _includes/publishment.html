@@ -8,7 +8,7 @@
       </div>
       {% set comma = joiner(",") %}
       <p>
-      {% for item in publishment.authors %}
+      {% for item in publishment.used %}
         {{ comma() }}<span>{{item.thing}}</span>
       {% endfor %}
       </p>
