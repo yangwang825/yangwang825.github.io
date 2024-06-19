@@ -1,7 +1,7 @@
 - name: Adversarial Defence without Adversarial Defence
   url: https://github.com/PuReDefence/pure
   code: https://github.com/PuReDefence/pure
-  description: We propose a novel module that leverages a simpler variant of Principal Component Analysis (PCA) to inherently acquire robustness against adversarial attacks.
+  description: This paper describes a novel plug-and-play module based on a simple variant of Principal Component Analysis that enhances the inherent robustness of pre-trained language models against adversarial attacks, validated by superior performance on multiple language understanding tasks.
   used:
     - thing: Yang Wang
     - thing: Chenghao Xiao
@@ -13,7 +13,7 @@
 - name: Contrastive-based Fine-tuning for Audio Classification
   url: https://openreview.net/pdf?id=nm8lp070Zk
   code: https://openreview.net/pdf?id=nm8lp070Zk
-  description: An important paradigm of speech and sound processing consists of efficient fine-tuning on adaptation to downstream tasks or domains. The primary challenge with fully fine-tuning a large-scale pre-trained model is overfitting, and the model may converge significantly slow. Herein, we propose Contrastive-based Fine-tuning (ConFit) for audio classification, which works by capturing robust representations and improve the discriminative power of the off-the-shelf models.
+  description: We propose ConFit, a Contrastive-based Fine-tuning approach for audio classification, enhances the discriminative power of models and achieves state-of-the-art results on six tasks by capturing robust representations and preventing overfitting.
   used:
     - thing: Yang Wang
     - thing: Qibin Liang
@@ -25,7 +25,7 @@
 - name: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls
   url: https://openreview.net/pdf?id=rCb9KI1Y0w
   code: https://openreview.net/pdf?id=rCb9KI1Y0w
-  description: This paper explores the use of Large Language Models (LLMs) in the generation and evaluation of analytical reports derived from Earnings Calls (ECs). Addressing a current gap in research, we explore the generation of analytical reports with LLMs in a multi-agent framework, designing specialized agents that introduce diverse viewpoints and desirable topics of analysis into the report generation process. Through multiple analyses, we examine the alignment between generated and human-written reports and the impact of both individual and collective agents.
+  description: This paper investigates the use of Large Language Models (LLMs) to generate and evaluate analytical reports from Earnings Calls, utilising a multi-agent framework to enhance diversity and depth in the reports, and compares the effectiveness of these machine-generated documents against human-written counterparts.
   used:
     - thing: Tomas Goldsack
     - thing: Yang Wang
@@ -35,7 +35,7 @@
 - name: Eigen-based Pooling for Effective Defence against Adversarial Attacks
   url: https://openreview.net/pdf?id=EmW7Fs5BOd
   code: https://openreview.net/pdf?id=EmW7Fs5BOd
-  description: This paper explores the use of Large Language Models (LLMs) in the generation and evaluation of analytical reports derived from Earnings Calls (ECs). Addressing a current gap in research, we explore the generation of analytical reports with LLMs in a multi-agent framework, designing specialized agents that introduce diverse viewpoints and desirable topics of analysis into the report generation process. Through multiple analyses, we examine the alignment between generated and human-written reports and the impact of both individual and collective agents.
+  description: This paper introduces a novel pooling strategy called dominant eigenvector-informed statistics pooling (Deist) that enhances the robustness of natural language processing models against adversarial attacks by leveraging higher-order information without the need for adversarial examples in training.
   used:
     - thing: Yang Wang
     - thing: Yizhi Li
