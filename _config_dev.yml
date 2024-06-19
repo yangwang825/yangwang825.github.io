@@ -6,7 +6,7 @@ url: https://yangwang825.github.io/
 baseurl: ''
 email: yangwang4work@gmail.com
 cover: https://yangwang825.github.io/img/og.png
-logo: https://yangwang825.github.io/img/emojis/technologist.png
+logo: '' # https://yangwang825.github.io/img/emojis/technologist.png
 resume: https://yangwang825.github.io/resume.pdf
 social:
   - title: email
