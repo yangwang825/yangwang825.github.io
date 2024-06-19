@@ -1,7 +1,7 @@
 - name: Adversarial Defence without Adversarial Defence
   url: https://github.com/PuReDefence/pure
   code: https://github.com/PuReDefence/pure
-  description: We raise a pivotal question "Can PLMs acquire inherent and universal robustness against adversarial attacks along the vanilla fine-tuning?" We respond to this question by proposing a novel module that leverages a simpler variant of Principal Component Analysis (PCA) to inherently acquire robustness against adversarial attacks.
+  description: We propose a novel module that leverages a simpler variant of Principal Component Analysis (PCA) to inherently acquire robustness against adversarial attacks.
   used:
     - thing: Adversarial
     - thing: Defence
@@ -17,7 +17,7 @@
     - thing: Isotropy
     - thing: Robustness
 
-- name: From Facts to Insights - A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls
+- name: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls
   url: https://openreview.net/pdf?id=rCb9KI1Y0w
   code: https://openreview.net/pdf?id=rCb9KI1Y0w
   description: This paper explores the use of Large Language Models (LLMs) in the generation and evaluation of analytical reports derived from Earnings Calls (ECs). Addressing a current gap in research, we explore the generation of analytical reports with LLMs in a multi-agent framework, designing specialized agents that introduce diverse viewpoints and desirable topics of analysis into the report generation process. Through multiple analyses, we examine the alignment between generated and human-written reports and the impact of both individual and collective agents.
