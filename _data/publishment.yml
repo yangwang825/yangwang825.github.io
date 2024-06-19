@@ -1,0 +1,41 @@
+- name: Adversarial Defence without Adversarial Defence
+  url: https://github.com/PuReDefence/pure
+  code: https://github.com/PuReDefence/pure
+  description: We raise a pivotal question "Can PLMs acquire inherent and universal robustness against adversarial attacks along the vanilla fine-tuning?" We respond to this question by proposing a novel module that leverages a simpler variant of Principal Component Analysis (PCA) to inherently acquire robustness against adversarial attacks.
+  used:
+    - thing: Adversarial
+    - thing: Defence
+    - thing: PCA
+
+- name: Contrastive-based Fine-tuning for Audio Classification
+  url: https://openreview.net/pdf?id=nm8lp070Zk
+  code: https://openreview.net/pdf?id=nm8lp070Zk
+  description: An important paradigm of speech and sound processing consists of efficient fine-tuning on adaptation to downstream tasks or domains. The primary challenge with fully fine-tuning a large-scale pre-trained model is overfitting, and the model may converge significantly slow. Herein, we propose Contrastive-based Fine-tuning (ConFit) for audio classification, which works by capturing robust representations and improve the discriminative power of the off-the-shelf models.
+  used:
+    - thing: ConFit
+    - thing: Audio
+    - thing: Isotropy
+    - thing: Robustness
+
+- name: From Facts to Insights - A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls
+  url: https://openreview.net/pdf?id=rCb9KI1Y0w
+  code: https://openreview.net/pdf?id=rCb9KI1Y0w
+  description: This paper explores the use of Large Language Models (LLMs) in the generation and evaluation of analytical reports derived from Earnings Calls (ECs). Addressing a current gap in research, we explore the generation of analytical reports with LLMs in a multi-agent framework, designing specialized agents that introduce diverse viewpoints and desirable topics of analysis into the report generation process. Through multiple analyses, we examine the alignment between generated and human-written reports and the impact of both individual and collective agents.
+  used:
+    - thing: LLM
+    - thing: Multi-agent
+    - thing: AutoGen
+    - thing: PRAAT
+    - thing: Summarisation
+
+- name: Eigen-based Pooling for Effective Defence against Adversarial Attacks
+  url: https://openreview.net/pdf?id=EmW7Fs5BOd
+  code: https://openreview.net/pdf?id=EmW7Fs5BOd
+  description: This paper explores the use of Large Language Models (LLMs) in the generation and evaluation of analytical reports derived from Earnings Calls (ECs). Addressing a current gap in research, we explore the generation of analytical reports with LLMs in a multi-agent framework, designing specialized agents that introduce diverse viewpoints and desirable topics of analysis into the report generation process. Through multiple analyses, we examine the alignment between generated and human-written reports and the impact of both individual and collective agents.
+  used:
+    - thing: BERT
+    - thing: Eigen-decomposition
+    - thing: SVD
+    - thing: Pooling
+    - thing: Adversarial
+    - thing: Defence
