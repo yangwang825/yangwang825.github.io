@@ -6,6 +6,13 @@
     - thing: Adversarial
     - thing: Defence
     - thing: PCA
+  authors:
+    - thing: Yang Wang
+    - thing: Chenghao Xiao
+    - thing: Yizhi Li
+    - thing: Stuart Middleton
+    - thing: Noura Al Moubayed
+    - thing: Chenghua Lin
 
 - name: Contrastive-based Fine-tuning for Audio Classification
   url: https://openreview.net/pdf?id=nm8lp070Zk
@@ -16,6 +23,13 @@
     - thing: Audio
     - thing: Isotropy
     - thing: Robustness
+  authors:
+    - thing: Yang Wang
+    - thing: Qibin Liang
+    - thing: Chenghao Xiao
+    - thing: Yizhi Li
+    - thing: Noura Al Moubayed
+    - thing: Chenghua Lin
 
 - name: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls
   url: https://openreview.net/pdf?id=rCb9KI1Y0w
@@ -27,6 +41,11 @@
     - thing: AutoGen
     - thing: PRAAT
     - thing: Summarisation
+  authors:
+    - thing: Tomas Goldsack
+    - thing: Yang Wang
+    - thing: Chenghua Lin
+    - thing: Chung-Chi Chen
 
 - name: Eigen-based Pooling for Effective Defence against Adversarial Attacks
   url: https://openreview.net/pdf?id=EmW7Fs5BOd
@@ -39,3 +58,8 @@
     - thing: Pooling
     - thing: Adversarial
     - thing: Defence
+  authors:
+    - thing: Yang Wang
+    - thing: Yizhi Li
+    - thing: Jie Fu
+    - thing: Chenghua Lin
