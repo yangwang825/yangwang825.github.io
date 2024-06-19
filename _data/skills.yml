@@ -1,10 +1,13 @@
 languages:
   - item: Python
+  - item: Bash
   - item: MATLAB
   - item: R
   - item: HTML
   - item: CSS
+  - item: Java
   - item: JavaScript
+  - item: PureData
   - item: LC3
 
 frameworks:
@@ -20,8 +23,11 @@ frameworks:
   - item: Ollama
 
 tools:
-  - item: Bash
   - item: Git & Github
+  - item: Docker
+  - item: AWS EC2
+  - item: Jupyter
+  - item: MiniFramework
   - item: Overleaf
   - item: Confluence
   - item: TestRail

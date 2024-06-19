@@ -12,3 +12,15 @@
     - thing: Jinja
     - thing: OpenAI
 
+- name: Intelligent Asset Allocation
+  url: https://github.com/henry32144/intelligent-asset-allocation
+  code: https://github.com/henry32144/intelligent-asset-allocation
+  description: This is a MVP of asset allocation web application, which can help users build their stock portfolio using Black-Litterman model and Transformer-based language models.
+  used:
+    - thing: Python
+    - thing: PyTorch
+    - thing: Transformers
+    - thing: NLTK
+    - thing: Flask
+    - thing: React
+    - thing: SQLAlchemy
