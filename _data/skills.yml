@@ -1,0 +1,34 @@
+languages:
+  - item: Python
+  - item: MATLAB
+  - item: R
+  - item: HTML
+  - item: CSS
+  - item: JavaScript
+  - item: LC3
+
+frameworks:
+  - item: PyTorch
+  - item: Lightning
+  - item: Transformers
+  - item: SentenceTransformers
+  - item: SpeechBrain
+  - item: 3D-Speaker
+  - item: LitGPT
+  - item: Spacy
+  - item: CrewAI
+  - item: Ollama
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: Overleaf
+  - item: Confluence
+  - item: TestRail
+  - item: Postman
+
+design:
+  - item: Miro
+  - item: Excalidraw
+  - item: Graphviz
+  - item: NN-SVG

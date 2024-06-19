@@ -1,0 +1,14 @@
+- name: OllamaPrompter
+  url: https://github.com/ExtraOrdinaryLab/OllamaPrompter
+  code: https://github.com/ExtraOrdinaryLab/OllamaPrompter
+  description: This repository is dedicated to enhancing the functionality originally found in the Promptify GitHub repo. As the original Promptify repository is no longer actively maintained, we have decided to adapt and extend its capabilities by integrating the Ollama API to facilitate prompt engineering to solve NLP problems.
+  used:
+    - thing: Python
+    - thing: PyTorch
+    - thing: Promptify
+    - thing: Transformers
+    - thing: Ollama
+    - thing: Spacy
+    - thing: Jinja
+    - thing: OpenAI
+
